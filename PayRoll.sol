@@ -1,7 +1,7 @@
 pragma solidity ^0.4.0;
 contract PayRoll{
     //array storing employees addresses
-    address[] employees= [0x5813924e1b664cE44343062890a02e7c5565E318, 0x01689BdFd0191358F86F3DC43f431A3E32AaB447];
+    address[] employees= [];
     uint totalETH = 0; 
     mapping(address => uint) ammountWithdrawn; 
     
