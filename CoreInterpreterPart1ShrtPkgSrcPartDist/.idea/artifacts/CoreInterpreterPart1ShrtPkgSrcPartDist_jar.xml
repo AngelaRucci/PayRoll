@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoreInterpreterPart1ShrtPkgSrcPartDist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoreInterpreterPart1ShrtPkgSrcPartDist_jar</output-path>
+    <root id="archive" name="CoreInterpreterPart1ShrtPkgSrcPartDist.jar">
+      <element id="module-output" name="CoreInterpreterPart1ShrtPkgSrcPartDist" />
+    </root>
+  </artifact>
+</component>
